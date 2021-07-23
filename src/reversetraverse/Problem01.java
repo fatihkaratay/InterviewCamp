@@ -42,6 +42,17 @@ public class Problem01 {
 
     private static int findLastValidIndex(int[] a) {
         int i = a.length - 1;
+        while (i >= 0 ) {
+            if (a[i] != -1){
+                break;
+            }
+            i--;
+        }
+        return i;
+    }
+
+    private static int findLastValidIndex2(int[] a) {
+        int i = a.length - 1;
         while (i >= 0 && a[i] == -1) {
             i--;
         }
