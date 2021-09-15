@@ -1,4 +1,4 @@
-package practice.partitioning;
+package partitioning;
 /*
   Question 1 (discussed in video): You are given an array of integers.
   Rearrange the array so that all zeroes are at the beginning of the array.

@@ -1,4 +1,4 @@
-package practice.partitioning;
+package partitioning;
 /*
 Question 3 (discussed in video below): (Level: Medium)
 Dutch National Flag Problem: Given an array of integers A and a pivot,

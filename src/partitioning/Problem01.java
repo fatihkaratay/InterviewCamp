@@ -1,4 +1,4 @@
-package practice.partitioning;
+package partitioning;
 /*
 Given an array with n marbles colored Red, White or Blue,
 sort them so that marbles of the same color are adjacent,

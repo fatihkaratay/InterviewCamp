@@ -1,4 +1,4 @@
-package practice.partitioning;
+package partitioning;
 
 /*
  * You are given a list of n-1 integers and these integers are in the range of 1 to n.

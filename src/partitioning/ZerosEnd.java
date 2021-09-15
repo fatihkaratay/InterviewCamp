@@ -1,4 +1,4 @@
-package practice.partitioning;
+package partitioning;
 /*
     Question 2 (discussed in the video below):
     Now, given an array, move all zeroes to the end of the array.
