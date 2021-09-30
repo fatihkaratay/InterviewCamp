@@ -1,4 +1,4 @@
-package partitioning;
+package C01_arrays_strings_1;
 /*
     Question 2 (discussed in the video below):
     Now, given an array, move all zeroes to the end of the array.
@@ -7,7 +7,7 @@ package partitioning;
 
 import java.util.Arrays;
 
-public class ZerosEnd {
+public class Problem05 {
     public static void main(String[] args) {
         int[] arr = {4, 2, 0, 1, 0, 3, 0};
         moveZerosEnd(arr);

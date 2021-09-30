@@ -1,4 +1,4 @@
-package partitioning;
+package C01_arrays_strings_1;
 /*
   Question 1 (discussed in video): You are given an array of integers.
   Rearrange the array so that all zeroes are at the beginning of the array.
@@ -7,7 +7,7 @@ package partitioning;
 
 import java.util.Arrays;
 
-public class ZerosBegin {
+public class Problem04 {
     public static void main(String[] args) {
         int[] arr = {4, 2, 0, 1, 0, 3, 0};
         moveZerosBegin(arr);

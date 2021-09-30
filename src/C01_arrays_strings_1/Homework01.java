@@ -1,6 +1,10 @@
-package reversetraverse;
+package C01_arrays_strings_1;
+/*
+Given a sentence, reverse the words of the sentence.
+For example, "i live in a house" becomes "house a in live i".
+*/
 
-public class Problem02 {
+public class Homework01 {
     public static void main(String[] args) {
         String str1 = "I live in a house";
         String str2 = "hello";

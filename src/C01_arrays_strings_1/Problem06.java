@@ -1,4 +1,4 @@
-package partitioning;
+package C01_arrays_strings_1;
 /*
 Question 3 (discussed in video below): (Level: Medium)
 Dutch National Flag Problem: Given an array of integers A and a pivot,
@@ -11,7 +11,7 @@ For example, if A = [5,2,4,4,6,4,4,3] and pivot = 4 -> result = [3,2,4,4,4,4,6,5
 
 import java.util.Arrays;
 
-public class DutchNationalFlag {
+public class Problem06 {
     public static void main(String[] args) {
         int[] arr = {5,2,4,4,6,4,4,3};
         int pivot = 4;

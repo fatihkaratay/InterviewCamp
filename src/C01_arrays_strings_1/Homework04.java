@@ -1,4 +1,4 @@
-package partitioning;
+package C01_arrays_strings_1;
 /*
 Given an array with n marbles colored Red, White or Blue,
 sort them so that marbles of the same color are adjacent,
@@ -9,7 +9,7 @@ For example, if A = [1,0,1,2,1,0,1,2], Output = [0,0,1,1,1,1,2,2].
 
 import java.util.Arrays;
 
-public class Problem01 {
+public class Homework04 {
     public static void main(String[] args) {
         int[] marbles = {1,0,2,1,2,1,0,1,2,0};
         int pivot = 1;
