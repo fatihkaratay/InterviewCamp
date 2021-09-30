@@ -1,4 +1,4 @@
-package subarray;
+package C02_subarrays;
 /*
 (Level: Medium) Given an array of integers,
 find the contiguous subarray that sums to 0.
@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PrefixSum {
+public class Problem03 {
     public static void main(String[] args) {
         int[] arr1 = {2,4,-2,1,-3,5,-3};
         int[] arr = {-1, 2, 1, -4, 2, 3, -1, 2};

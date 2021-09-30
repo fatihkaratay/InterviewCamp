@@ -1,4 +1,4 @@
-package subarray;
+package C02_subarrays;
 /*
 (Level: Easy) Given an array of integers, find the contiguous subarray
 (with at least 1 element) with the maximum sum.
@@ -6,9 +6,7 @@ The array can contain both negative and positive integers.
 ex: A=[-2, -3, 4, -1, -2, 1, 5, -1]
  */
 
-import java.util.Arrays;
-
-public class KadaneAlgorithm {
+public class Problem01 {
     public static void main(String[] args) {
         int[] arr = {-2, -1, 3, -2, 0};
         int[] arr2 = {-2, -3, 4, -1, -2, 1, 5, -1};

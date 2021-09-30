@@ -1,4 +1,4 @@
-package subarray;
+package C02_subarrays;
 /*
 (Level: Easy) Given an array of positive integers,
 find the contiguous subarray that sums to a given number X.
@@ -8,7 +8,7 @@ For example, input = [1,2,3,5,2] and X=8, Result = [3,5]
 
 import java.util.Arrays;
 
-public class SlidingWindow {
+public class Problem02 {
     public static void main(String[] args) {
         int[] arr = {1,2,3,5,2};
         int target = 8;

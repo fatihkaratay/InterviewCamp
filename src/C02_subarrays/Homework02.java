@@ -1,13 +1,14 @@
-package subarray;
+package C02_subarrays;
 /*
-Given an array of integers, both -ve and +ve, find a contiguous subarray that sums to a numberX.
+Given an array of integers, both -ve and +ve, find a contiguous subarray
+that sums to a numberX.
 For example: [2,4,-2,1,-3,5,-3], X = 5 --> Result = [2,4,-2,1]
 */
 
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class TargetPrefixSum {
+public class Homework02 {
     public static void main(String[] args) {
         int[] arr = {2,4,-2,1,-3,5,-3};
         int target1 = 5;
