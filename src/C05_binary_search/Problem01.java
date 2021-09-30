@@ -1,6 +1,6 @@
-package binary_search;
+package C05_binary_search;
 
-public class BinarySearchImpl {
+public class Problem01 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 5, 7, 8, 11};
         int target1 = 2;

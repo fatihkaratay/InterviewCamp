@@ -1,13 +1,14 @@
-package binary_search;
+package C05_binary_search;
 
 /*
 Given an array that is cyclically sorted, find the minimum element.
-A cyclically sortedarray is a sorted array rotated by some number of elements.
-Assume all elementsare unique.
-For example:A = [4,5,1,2,3], which is just [1,2,3,4,5] rotated by 2Result = index 2
+A cyclically sorted array is a sorted array rotated by some number of elements.
+Assume all elements are unique.
+For example:A = [4,5,1,2,3], which is just [1,2,3,4,5] rotated by 2
+Result = index 2
  */
 
-public class CycledSortedArray {
+public class Problem04 {
     public static void main(String[] args) {
         int[] arr = {4,5,1,2,3};
         System.out.println(getMinCycledArray(arr));

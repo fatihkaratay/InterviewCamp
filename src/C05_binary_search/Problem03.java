@@ -1,4 +1,4 @@
-package binary_search;
+package C05_binary_search;
 /*
 (Level: Easy) Given a sorted array A and a target T, find the target.
 If the target is not in the array, find the number closest to the target.
@@ -7,7 +7,7 @@ For example, if A = [2,3,5,8,9,11] and T = 7,
 return index of 8, i.e. return 3.
 */
 
-public class ClosestSearch {
+public class Problem03 {
     public static void main(String[] args) {
         int[] arr = {2,3,5,8,9,11};
         int target = 7;

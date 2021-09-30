@@ -1,4 +1,4 @@
-package binary_search;
+package C05_binary_search;
 /*
 You are given a sorted array A and a target T.
 Return the index where T would be placed if inserted in order.
@@ -9,7 +9,7 @@ A = [1,2,4,5,6,8] and T = 0, return index 0
 A = [1,2,4,5,6,8] and T = 4, return index 3.
 */
 
-public class Problem01 {
+public class Homework01 {
     public static void main(String[] args) {
         int[] arr = {1,2,4,5,6,8};
         int t1 = 3;
