@@ -23,8 +23,8 @@ import java.util.Stack;
 
 public class Homework02 {
     public static void main(String[] args) {
-        int[] coins = {1, 2, 5};
-        int target = 5;
+        int[] coins = {2, 3, 5, 10};
+        int target = 15;
 
         printCoins(coins, target);
     }
