@@ -66,7 +66,7 @@ public class Problem06 {
         };
 
         for (Pair point : points) {
-            if (backtrack(maze, point.getFirst(), point.getSecond(), memo)) {
+            if (backtrack(maze, point.i(), point.j(), memo)) {
                 return true;
             }
         }
